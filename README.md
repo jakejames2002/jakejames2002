@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jakejames2002
-- 👀 I’m interested in coding and learning all about how to code
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello! I am Jake Giannoto, currently studying at Rutgers University - New Brunswick on a track to completing my Masters with a specialization in Machine Learning.
 
 <!---
 jakejames2002/jakejames2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
